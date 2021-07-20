@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DRYDetective.Vsix": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}

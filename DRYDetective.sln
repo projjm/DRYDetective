@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DRYDetective", "DRYDetective\DRYDetective\DRYDetective.csproj", "{BC328654-62A0-4B76-A888-B480FD35BF62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DRYDetective.CodeFixes", "DRYDetective\DRYDetective.CodeFixes\DRYDetective.CodeFixes.csproj", "{99ACDE3B-5158-4052-8442-A21169286F42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DRYDetective.Package", "DRYDetective\DRYDetective.Package\DRYDetective.Package.csproj", "{A3EF62FD-3636-42AD-A0A3-E46EC0698596}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DRYDetective.Test", "DRYDetective\DRYDetective.Test\DRYDetective.Test.csproj", "{BA1B0DA8-809C-4271-9C06-04AC49DD0109}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DRYDetective.Vsix", "DRYDetective\DRYDetective.Vsix\DRYDetective.Vsix.csproj", "{881DA459-B7CD-4E04-8084-1CE42AB3A114}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC328654-62A0-4B76-A888-B480FD35BF62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC328654-62A0-4B76-A888-B480FD35BF62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC328654-62A0-4B76-A888-B480FD35BF62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC328654-62A0-4B76-A888-B480FD35BF62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99ACDE3B-5158-4052-8442-A21169286F42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99ACDE3B-5158-4052-8442-A21169286F42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99ACDE3B-5158-4052-8442-A21169286F42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99ACDE3B-5158-4052-8442-A21169286F42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3EF62FD-3636-42AD-A0A3-E46EC0698596}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3EF62FD-3636-42AD-A0A3-E46EC0698596}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3EF62FD-3636-42AD-A0A3-E46EC0698596}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3EF62FD-3636-42AD-A0A3-E46EC0698596}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA1B0DA8-809C-4271-9C06-04AC49DD0109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA1B0DA8-809C-4271-9C06-04AC49DD0109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA1B0DA8-809C-4271-9C06-04AC49DD0109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA1B0DA8-809C-4271-9C06-04AC49DD0109}.Release|Any CPU.Build.0 = Release|Any CPU
+		{881DA459-B7CD-4E04-8084-1CE42AB3A114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{881DA459-B7CD-4E04-8084-1CE42AB3A114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{881DA459-B7CD-4E04-8084-1CE42AB3A114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{881DA459-B7CD-4E04-8084-1CE42AB3A114}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FE12BA0-116B-4229-A1F3-1230CEEBF388}
+	EndGlobalSection
+EndGlobal
